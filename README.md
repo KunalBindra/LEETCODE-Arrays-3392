@@ -1,7 +1,4 @@
 # LEETCODE-Arrays-3392
----
----
-
 ## Solution Overview
 
 The `Solution` class contains the method `countSubarrays` which:
